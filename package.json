@@ -27,6 +27,7 @@
     "test": "grunt test"
   },
   "dependencies": {
+    "q":  "1.4.1",
     "vsts-iis": "https://github.com/acromm/vsts-iis.git"
   },
   "devDependencies": {
